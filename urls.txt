@@ -1,0 +1,9 @@
+# Safe URLs
+https://example.com
+https://cbit.ac.in
+https://google.com
+
+# Phishing / Malicious URLs
+http://testsafebrowsing.appspot.com/s/phishing.html
+http://malicious-example.com
+http://paypal.com.security-update-login.com
